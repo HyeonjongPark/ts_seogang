@@ -1,0 +1,10 @@
+streamlit
+yaml
+streamlit_authenticator
+traceback
+st_social_media_links
+pandas
+urllib
+millify
+streamlit_extras
+json
