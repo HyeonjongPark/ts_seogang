@@ -1,0 +1,63 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    andrew.byun@lge.com:
+      email: andrew.byun@lge.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: andrew.byun
+      password: $2b$12$RO4pPhZB1JTCrF6yesJgJe3J.Wfe61BfMcENHgOSmCCyx8QTGNgAK
+    dongsoo.jung@lge.com:
+      email: dongsoo.jung@lge.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: dongsoo.jung
+      password: $2b$12$1Znvb9OOOn2b.fU10I/89eOIJR09LhhR7c8H3JiroNbmcQhPFofA.
+    jonghoon.lee@lge.com:
+      email: jonghoon.lee@lge.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: jonghoon.lee
+      password: $2b$12$m/XcKEyJyNEW2TlXBw1OS.mSDChZoFo7FGkPOrKfewJLSX9MKlSqK
+    kangsoo.baek@lge.com:
+      email: kangsoo.baek@lge.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: kangsoo.baek
+      password: $2b$12$e2vH1rU8Kgz0IB4fUpCEaOoih38AjUj9qeEnP5MnMpaPoz5iC/Xla
+    kyungmin1.lee@lge.com:
+      email: kyungmin1.lee@lge.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: kyungmin1.lee
+      password: $2b$12$KP4IFZZb2f.laquxnc6XEuQH3mtjLzkbfoN.1BFyEmP2X0vaM0Ntq
+    leo:
+      email: hyeonjong.park@lge.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: admin
+      password: $2b$12$8teNHUBCY8S0GPwJycThxOpaHqgLVT7E7ZZlUo3H6ZVix0UWPaxgi
+    synergy:
+      email: null
+      failed_login_attempts: 0
+      logged_in: true
+      name: synergy
+      password: $2b$12$yGIXTLT6WYi9KGGCpPhXq.DVrNOlI1SoW5KXD3MbGAVStvhqe25Sq
+    winwin:
+      email: null
+      failed_login_attempts: 0
+      logged_in: true
+      name: winwin
+      password: $2b$12$AaOPvZMcCmYtUb6aC.qM7.NzMdv3ySIWo2182NygsRTF9CqJfO2KO
+    youngyou.kim@lge.com:
+      email: youngyou.kim@lge.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: youngyou.kim
+      password: $2b$12$qxlknLCVJLc35beUpNniDO9co.hg0DCFO3jUCTdapO89yoc/9ol.C
+pre-authorized:
+  emails:
+  - melsby@gmail.com
